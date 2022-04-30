@@ -6,14 +6,14 @@
          "title": "cat adoption",
          "description": "find your new feline friend at this event",
          "location": "moew town",
-         "date": "january 20th 2022",
+         "date": "june 22th 2022",
          "time": "12:00",
          "petsAllow": "true",
          "organizer": "kat laydee"
       },
       {
          "id": 211,
-         "category": "animal welfare",
+         "category": "hasta la vista",
          "title": "cat adoption",
          "description": "find your new feline friend at this event",
          "location": "moew town",
@@ -24,11 +24,11 @@
       },
       {
          "id": 311,
-         "category": "animal welfare",
+         "category": "que pasa amigo",
          "title": "cat adoption",
          "description": "find your new feline friend at this event",
          "location": "moew town",
-         "date": "january 20th 2022",
+         "date": "may 5th 2022",
          "time": "12:00",
          "petsAllow": "true",
          "organizer": "kat laydee"
