@@ -1,7 +1,7 @@
 {
   "events":[
         {
-        "id":"111",
+        "id":111,
         "category":"animal welfare",
         "title":"cat adoption",
         "description":"find your new feline friend at this event",
@@ -14,7 +14,7 @@
     
         
         {
-        "id":"211",
+        "id":211,
         "category":"animal welfare",
         "title":"cat adoption",
         "description":"find your new feline friend at this event",
@@ -25,7 +25,7 @@
         "organizer":"kat laydee"
         },
         {
-        "id":"311",
+        "id":311,
         "category":"animal welfare",
         "title":"cat adoption",
         "description":"find your new feline friend at this event",
